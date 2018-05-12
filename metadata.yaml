@@ -1,10 +1,16 @@
 _repo: Ofversigt-af-Nordiska-Mytologien_48365
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48365-h/images/cover.jpg
 creator:
   author:
     agent_name: Sundén, Daniel Anton
     gutenberg_agent_id: '44755'
     url: http://www.gutenberg.org/2009/agents/44755
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48365#Ofversigt-af-Nordiska-Mytologien
 gutenberg_issued: '2015-02-26'
 gutenberg_type: Text
 identifiers:
